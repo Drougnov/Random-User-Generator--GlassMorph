@@ -15,7 +15,7 @@ Here's the video link-
 https://youtu.be/qZXt1Aom3Cs
 
 Here is the solution site url-
-https://drougnov.github.io/random-user-generator-with-glass-morphism-master/
+https://drougnov.github.io/Random-User-Generator--GlassMorph/
 
 ## Built with
 
