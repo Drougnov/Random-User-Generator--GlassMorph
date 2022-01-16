@@ -9,13 +9,13 @@ Hello! Thanks for cheking out this repository.
 ## What is it about
 
 It's a random user generator made with vue.js and random user api. It has a glass-morphism ui.
-The vue part is heavily inspired from treversy media.
+The vue part is heavily inspired from treversy media's vue tutorial.
 
-Here's the video link-
+Here's his video link-
 https://youtu.be/qZXt1Aom3Cs
 
-Here is the solution site url-
-https://drougnov.github.io/random-user-generator-with-glass-morphism-master/
+Here is my project site's url-
+https://drougnov.github.io/Random-User-Generator--GlassMorph/
 
 ## Built with
 
